@@ -1,10 +1,10 @@
 {
   "name": "@web/lerna-alpha",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
-  "devDependencies": {},
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "react": "^16.8.6"
   }
 }

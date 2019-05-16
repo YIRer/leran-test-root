@@ -1,6 +1,9 @@
 {
   "name": "@web/lerna-prod",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3"
+  }
 }
