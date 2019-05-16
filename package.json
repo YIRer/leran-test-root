@@ -1,0 +1,12 @@
+{
+  "name": "lerna-yarn-workspace",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@material-ui/core": "^3.9.3"
+  }
+}
